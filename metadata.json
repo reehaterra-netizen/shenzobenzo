@@ -1,0 +1,6 @@
+{
+  "name": "Reeha: AI Arena Massacre",
+  "description": "High-intensity top-down cyberpunk arcade combat game featuring cybernetic warrior Reeha fighting hordes of rogue AI droids, bio-mechs, and bosses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
